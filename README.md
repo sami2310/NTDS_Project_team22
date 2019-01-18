@@ -1,3 +1,8 @@
+# Important note:
+#### We are using Folium to display the maps and they don't show on the notebook on github.
+#### Please run the code locally.
+
+
 # Title
 
 Small Components' Analysis and Flight Delay Prediction.
@@ -43,4 +48,3 @@ We split the project into 4 main parts:
     |Random Forest Classifier  |    100  |    86.02  |
     |K Nearest Neighbors |    29  |   86.97  |
     |Logistic Regression  |    0 |    87.02  |
-    
