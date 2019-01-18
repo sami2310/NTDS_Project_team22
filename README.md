@@ -11,7 +11,7 @@ A Network Tour of Data Science project
 
 ##### Team 22:
   - Sami Ben Hassen.
-  - Nourchen eBen Romdhane.
+  - Nourchene Ben Romdhane.
   - Firas Kanoun.
   - Ali Fessi.
 
@@ -21,10 +21,10 @@ In a more and more connected world, flight routes give us a great framework in o
 
 # Datasets:
 
-We will use the Openflights routes database from their websoite.
+  - We will use the Openflights routes database from their websoite.
 This OpenFlights/Airline Route Mapper Route Database contains 67,663 routes (EDGES) between 3,321 airports (NODES) on 548 airlines spanning the globe.
 
-We will also use a subset of the 2015 flight delays and cancellations dataset .
+  - We will also use a subset of the 2015 flight delays and cancellations dataset .
 
 
 # Project Description:
